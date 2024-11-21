@@ -1,0 +1,18 @@
+Demonstration of various ports: CPU, VGA ports, PS/2 (Keyboard, Mouse), USB, LAN, Speaker, Audio.
+Aim: To identify the computer hardware parts various ports. Requirements: Motherboard
+CPU PORTS
+Ports are slots on the motherboard into which a cable of external device is plugged in. Examples of external devices attached via ports are the mouse, keyboard, monitor, microphone, speakers, etc.
+Male ports. Have pins that protrude out from the connector and require a cable with a female connector.
+Female ports. Have holes in the connector to accept the male cable’s pins.
+Female Ports
+VGA PORT:
+VGA ports also known as Video Graphic Array connector are those which connect the monitor to a computer’s video card. VGA port has 15 holes and it is similar to the serial port connector.
+PS/2 PORT:
+PS/2 ports are special ports used for connecting old computer keyboard and mouse. It was invented by IBM. In old computers, there are minimum of two PS/2 Ports, each for the keyboard and the mouse. It is a 6 pin mini Din connector.
+ 
+USB (Universal Serial Bus) port:
+In 1997 USB was first introduced. This can connect all kinds of external USB devices, like external hard disk, printer, scanner, mouse, keyboard, etc.
+Ethernet Port:
+Ethernet Port helps to connect to a network and high-speed Internet (provided by LAN or other sources). It connects the network cable to a computer and resides in a Ethernet card. It provides a data travel speed of 10 Mb to 1000 Mb(megabits) per second.
+Sockets: for Speaker and Audio
+Microphones and speakers are connected with the help of Sockets to the sound card of the computer make it graspable
